@@ -89,3 +89,5 @@ music21/monkeytype.sqlite3
 .pytest_cache/v/cache/nodeids
 .pytest_cache/v/cache/lastfailed
 .pytest_cache/v/cache/nodeids
+
+uml/
